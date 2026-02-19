@@ -1,0 +1,8 @@
+api_env/
+__pycache__/
+*.pyc
+database.db
+main.py
+Criando_um_ambiente_virtual.txt
+O_que_é_uma_API.txt
+.env
